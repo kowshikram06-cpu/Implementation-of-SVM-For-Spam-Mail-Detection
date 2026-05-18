@@ -28,6 +28,9 @@ To write a program to implement the SVM For Spam Mail Detection.
 Program to implement the SVM For Spam Mail Detection..
 Developed by:S.KOWSHIK RAM 
 RegisterNumber:212225230143
+
+
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
